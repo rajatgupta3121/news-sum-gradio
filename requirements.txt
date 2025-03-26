@@ -1,0 +1,10 @@
+gradio
+transformers
+requests
+beautifulsoup4
+newspaper4k
+vaderSentiment
+gTTS
+torch
+lxml
+lxml_html_clean
